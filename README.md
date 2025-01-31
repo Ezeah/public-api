@@ -32,7 +32,10 @@ The server will start on `http://localhost:3000`.
 
 ### Endpoint
 
-- **GET** `[/](https://public-api-zdlr.onrender.com)`
+- **GET**
+```
+https://public-api-zdlr.onrender.com
+```
 
 ### Request Format
 
