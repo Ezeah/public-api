@@ -8,12 +8,12 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/Ezeah/public-api.git
    ```
    
 2. **Navigate to the project directory:**
    ```
-   cd your-repo
+   cd public-api
    ```
 
 3. **Install the dependencies:**
