@@ -1,0 +1,15 @@
+{
+  "name": "public-api",
+  "version": "1.0.0",
+  "description": "A public API to retrieve basic information including email, current datetime, and GitHub URL.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "cors": "^2.8.5"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
